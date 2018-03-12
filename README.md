@@ -14,7 +14,7 @@ The game is a turn-based memory game. The player will at the beginning of a turn
 ## Requirements
 
 ### Analysis and Design
-You must analyse the problem and describe it on diagram form before implementing it. *Use for instance Aktivity or State Machine diagrams for this purpose.*
+You must analyse the problem and describe it on diagram form before implementing it. *Use for instance Activity or State Machine diagrams for this purpose.*
 
 ### Test
 Make a plan for testing your implementation. The plan should provide details on how to test the individual components or actions of your implementation.
