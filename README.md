@@ -14,10 +14,22 @@ The game is a turn-based memory game. The player will at the beginning of a turn
 ## Requirements
 
 ### Analysis and Design
-* You must analyse the problem and describe it on diagram form before implementing it. *Use for instance Aktivity or State Machine diagrams for this purpose.*
+You must analyse the problem and describe it on diagram form before implementing it. *Use for instance Aktivity or State Machine diagrams for this purpose.*
 
 ### Test
-* Make a plan for testing your implementation. The plan should provide details on how to test the individual components or actions of your implementation.
+Make a plan for testing your implementation. The plan should provide details on how to test the individual components or actions of your implementation.
 
 ### Implementation
-* Implement the game in AVR assembler. The code must be weel-structured and extensively commented. 
+Implement the game in AVR assembler. The code must be weel-structured and extensively commented. 
+
+## Practical Information
+### Definition of Done
+The game should be demonstrated for me on class and your implementation code handed in on github. See section below for details on how to hand in on github.
+
+All group members should have participated actively in producing code and thus it should be possible to find all group members in the git commit history.
+
+### Deadline 
+5th of April by the end of the lecture (2.20pm)
+
+### Github
+...
