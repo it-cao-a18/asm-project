@@ -4,11 +4,18 @@ The purpose of this assignment is to write a small software project in assembler
 
 ## Description of the Project
 
-Problem based learning
+You are going to design and implement an application on the AVR atmega2560 microcontroller. The following are some non-functional requirements for the project:
+* The application must be written in AVR assembler
+* Your project must include some form of user interface (using sensors and actuators from the Arduino starter kit)
 
-learning goals: write assembler for an mcu, execute and debug assembler programs, develop an application for an AVR MCU in assembler
 
-hardware: Adeept Ultimate Starter kit
+learning goals (from the course description):
+* Create functioning assembler programs for microcontrollers
+* Analyse ASM programs (AVR MCU) and calculate execution time
+* Execute and debug assembler programs
+* Create applications using assembler programming
+* Integrate simple I/O devices in embedded applications
+
 
 ## Requirements
 
